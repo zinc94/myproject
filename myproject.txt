@@ -1,2 +1,4 @@
 hello world, this is my project
-change from 1st branch
+my 1st branch changes
+my 2nd branch changes
+
